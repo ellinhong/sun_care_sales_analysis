@@ -15,4 +15,4 @@ from pathlib import Path
 st.set_page_config(page_title="BASF Sales Analysis by Ellin", layout="wide")
 
 
-st.write("Hello, World")
+st.write("It's Ellin")
