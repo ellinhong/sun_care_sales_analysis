@@ -60,4 +60,4 @@ def covid_impact_graph() :
     Net_Sales = np_total.sum(axis = 0)           # Y
 
     ########## ############# ############### ############## ###################
-    covid_impact_graph()
+covid_impact_graph()
