@@ -1827,9 +1827,8 @@ def run():
     #### Acknowledgements #####
     st.markdown('<i><p class="big-font">**Section 7. Acknowledgements **</p></i>', unsafe_allow_html=True)
     st.markdown('''
-    The accomplishment of this undertaking could not have been possible without the participation and assistance of many colleagues at BASF A-EMA/AR whose names may not all be enumerated. The author would like to express her sincere gratitude particularly to <b> Chulsang Kang </b> for his professional supervising and leadership, <b> Sul Won Lee </b> for his insightful suggestions and expertise on data interpretation, <b> Jung Ha Kim </b> for data acquisition and comprehensive data interpretation, and <b> Olivia Choi </b> and <b> Serena Hong </b> for the kind guidance and encouragement. This work was supported by the A-EMA/AR site in Republic of Korea, BASF- ASIA PACIFIC. 
-    <br><br>
-    ''', unsafe_allow_html=True)
+    The accomplishment of this undertaking could not have been possible without the participation and assistance of many colleagues at BASF A-EMA/AR whose names may not all be enumerated. The author would like to express her sincere gratitude to the team for their professional leaderships, insightful suggestions and expertise on data interpretation, and encouragements. This work was supported by the A-EMA/AR site in Republic of Korea, BASF- ASIA PACIFIC.
+     ''', unsafe_allow_html=True)
 
 
     #### Disclaimer #####
