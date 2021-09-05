@@ -1846,7 +1846,7 @@ st.error('''** User Agreement** : The content of this project strictly remains c
 If you have accessed this website in error, please advise the author immediately by e-mailing the author at hongx296@umn.edu and deleting the link. Restrictions apply to the availability of the data in this project, which is used under license from A-EMA/AR, BASF-ASIA PACIFIC.
 Readers can contact at the following URL: https://www.basf.com/kr/en/who-we-are/sites-and-contacts.html. 
 The address on which this project has been posted is strictly for business use only and the author reserves the right to monitor the contents of communications and take action where and when it is deemed necessary. Thank you for your co-operation.      
-By clicking "I agree," you acknowledge that you have agree and consent to the User Agreement, and then you will be directed to the main content.
+By clicking "I agree," you acknowledge that you have read and accept the User Agreement, and you will shortly be directed to the main content.
 ''')
 if st.button("Yes, I hereby acknowledge that I have read, understand, and agree to the terms and conditions of the User Agreement."):
     run()
